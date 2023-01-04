@@ -1222,7 +1222,7 @@ background-color: white;
     .footer .container .box .line i{
         margin: 20px 0;
     }
-      .footer .container .box ul.social i a{
+      .footer .container .box ul.social li{
           margin: 20px auto;
 }
 .footer .foot{
