@@ -1222,6 +1222,8 @@ background-color: white;
     .footer .container .box .line i{
         margin: 20px 0;
     }
+      .footer .container .box ul.social i{
+          margin: 20px auto;
 }
 .footer .foot{
     text-align: center;
