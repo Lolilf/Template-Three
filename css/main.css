@@ -1221,9 +1221,9 @@ background-color: white;
     }
     .footer .container .box .line i{
         margin: 20px 0;
-    }
-      .footer .container .box ul.social li a{
-          margin: 20px auto;
+    }   
+     .footer .container .box ul.social{
+         margin: 20px auto;
 }
 .footer .foot{
     text-align: center;
